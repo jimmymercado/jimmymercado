@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @jimmymercado
-- 👀 Coming from a C#/.Net full stack development, I’m interested in learning more about Frontend frameworks and libraries
-- 🌱 I’m currently learning NodeJS, ReactJS, Gatsby and Python
-- 💞️ I’m looking forward to enhance improve my DevOps collab in AWS and Azure
-- 📫 Say Hi at developer@jimmymercado.com
+- 👋 wave Hi, I’m @jimmymercado
+- 👀 a C#/.Net full stack developer, interested in learning more about frontend frameworks and libraries
+- 🥇 mastering NodeJS, ReactJS, Gatsby and Python
+- 🥅 learning DevOps collab in AWS and Azure
+- 🏓 pingpong and guitar relieves my stress 
+- 🍝 food explorer 
+- 🐶 we got a yorkie named Cooper (he's from CUPERtino, CA)
+- 📫 Say 'Hi' at developer@jimmymercado.com
 
 
