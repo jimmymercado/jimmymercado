@@ -3,7 +3,7 @@
 - 🥇 mastering NodeJS, ReactJS, Gatsby and Python
 - 🥅 learning DevOps collab in AWS and Azure
 - 🏓 pingpong low-range enthusiast
-- 🎸 campfire/bathroom level musician
+- 🎸 campfire/shower level musician
 - 🍝 food explorer 
 - 🐶 we have a Yorkie named Cooper (he's from CUPERtino, CA)
 - 📫 Say 'Hi' at developer@jimmymercado.com
